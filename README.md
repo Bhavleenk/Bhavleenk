@@ -41,7 +41,7 @@ I have worked on several projects, my recent projects include OposssumBot - Disc
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhavleenk&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhavleenk&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br><br>
 ![Bhavleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavleenk&show_icons=true&theme=radical)<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavleenk&layout=compact&theme=vision-friendly-dark)
 
