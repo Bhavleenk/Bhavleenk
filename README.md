@@ -47,6 +47,7 @@ I have worked on several projects, my recent projects include OposssumBot - Disc
 
 <!--
 **Bhavleenk/Bhavleenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**![Bhavleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavleenk&show_icons=true&theme=radical)<br><br>
 <!- - 🤔 I’m looking for help with ... - 💬 Ask me about ...
 - 📫 How to reach me: ... - ⚡ Fun fact: ...>
 -->
