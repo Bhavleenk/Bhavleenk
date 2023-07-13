@@ -17,9 +17,7 @@ I have worked on several projects, my recent projects include OposssumBot - Disc
   <a href="https://www.hackerrank.com/bhavcode">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
-  <a href="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
+  
    <a href="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)****"/>
   </a>
@@ -50,4 +48,7 @@ I have worked on several projects, my recent projects include OposssumBot - Disc
 **![Bhavleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavleenk&show_icons=true&theme=radical)<br><br>
 <!- - 🤔 I’m looking for help with ... - 💬 Ask me about ...
 - 📫 How to reach me: ... - ⚡ Fun fact: ...>
+<a href="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
 -->
