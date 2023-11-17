@@ -2,10 +2,10 @@
 
 ---
 
-*B.E. Electronics (Instrumentation and Control) Engineering* and *Minor in Computer Science Enginnering* Student at *Thapar Institute of Engineering & Technology (TIET), Patiala.* <br>
-*Core Member* at *Google Developer Student Club, TIET.*<br>
-<p> I am a hardworking and ambitious student, adept at handling multiple tasks on daily basis and working well under pressure.
-I have worked on several projects, my recent projects include OposssumBot - Discord Bot and Magpie - Sudoku Solver AI. </p>
+*B.E. Electronics (Instrumentation and Control) Engineering* and *Minor in Computer Science Engineering* Student at *Thapar Institute of Engineering & Technology (TIET), Patiala.* <br>
+<br>
+<p> I am a hardworking and ambitious student, adept at handling multiple tasks on a daily basis and working well under pressure.
+<!-- I have worked on several projects, my recent projects include OposssumBot - Discord Bot and Magpie - Sudoku Solver AI. </p> -->
 <p>
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/bhavleen-kaur-07a3651a7/">
