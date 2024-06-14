@@ -7,7 +7,7 @@
 <p> I am a hardworking and ambitious student, adept at handling multiple tasks on a daily basis and working well under pressure.
 <!-- I have worked on several projects, my recent projects include OposssumBot - Discord Bot and Magpie - Sudoku Solver AI. </p> -->
 <p>
-<div id="badges" align = "center">
+<!-- <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/bhavleen-kaur-07a3651a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -26,7 +26,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="650"/>
 </div>
-
+ -->
 
 
 ---
@@ -35,10 +35,10 @@
 - 🔭 Currently working on Artificial intelligence and Machine Learning projects<br>
 - 🌱 Currently learning Artificial intelligence and Machine Learning<br>
 - 👯 Looking to collaborate on ML Projects<br>
-- 😄 Pronouns: She/Her<br>
+
 
 ---
-### :fire: My Stats :
+### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhavleenk&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavleenk&layout=compact&theme=vision-friendly-dark)
