@@ -2,7 +2,10 @@
 
 ---
 
-*B.E. Electronics (Instrumentation and Control) Engineering* and *Minor in Computer Science Engineering* Student at *Thapar Institute of Engineering & Technology (TIET), Patiala.* <br>
+Intern @Samsung R&D Bangalore, India <br>
+Kaggle Notebooks & Datasets Expert <br>
+B.E. Electronics (Instrumentation and Control) Engineering* and *Minor in Computer Science Engineering* Student at *Thapar Institute of Engineering & Technology (TIET), Patiala.* 
+Ex-Event Management Head at Google Developer Student Club TIET.
 <br>
 <p> I am a hardworking and ambitious student, adept at handling multiple tasks on a daily basis and working well under pressure.
 <!-- I have worked on several projects, my recent projects include OposssumBot - Discord Bot and Magpie - Sudoku Solver AI. </p> -->
