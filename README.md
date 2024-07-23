@@ -40,6 +40,8 @@ Ex-Event Management Head at Google Developer Student Club TIET.
 - 👯 Looking to collaborate on ML Projects<br>
 
 
+<!---
+![](https://komarev.com/ghpvc/?username=Bhavleenk&label=PROFILE+VIEWS)-->
 ---
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhavleenk&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
